@@ -1,0 +1,1 @@
+console.log("DOM is used to interact with HTML elements");

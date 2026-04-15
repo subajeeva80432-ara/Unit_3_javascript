@@ -1,1 +1,4 @@
-# Notes 
+# DOM Selection
+
+- getElementById
+- querySelector
